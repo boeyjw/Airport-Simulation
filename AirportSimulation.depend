@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1450449162 source:c:\users\secreto de xynex\desktop\airportsimulation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Airport.h"
+
+1450445419 c:\users\secreto de xynex\desktop\airportsimulation\airport.h
+	<stdbool.h>
+
+1450348969 source:c:\users\secreto de xynex\desktop\airportsimulation\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Airport.h"
+
+1450448846 source:c:\users\secreto de xynex\desktop\airportsimulation\operations.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Airport.h"
+
+1450443468 source:c:\users\secreto de xynex\desktop\airportsimulation\endequeue.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Airport.h"
+
+1450449228 source:c:\users\secreto de xynex\desktop\airportsimulation\timemanipulation.c
+	<stdio.h>
+	"Airport.h"
+
+1451645681 source:c:\users\secreto de xynex\onedrive\airportsimulation\endequeue.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Airport.h"
+
+1451282105 c:\users\secreto de xynex\onedrive\airportsimulation\airport.h
+	<stdbool.h>
+
+1451647263 source:c:\users\secreto de xynex\onedrive\airportsimulation\operations.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Airport.h"
+
+1451279299 source:c:\users\secreto de xynex\onedrive\airportsimulation\timemanipulation.c
+	<stdio.h>
+	"Airport.h"
+
+1451647038 source:c:\users\secreto de xynex\onedrive\airportsimulation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Airport.h"
+

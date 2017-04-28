@@ -1,0 +1,31 @@
+					CHANGELOG
+=============================================================================================
+v1.00	Working code
+	Buggy
+v1.01	Added comments
+v1.02	Printing edited
+
+v1.10	Major bug fixes
+	Code optimised, negligable runtime reduction
+v1.11	Added comments
+
+v1.20	Added file writing onto required functions
+v1.21	Added comments
+v1.22	Added comments
+	Minor bug fixes
+
+v1.30	Logic changes
+	- Planes now depart either on-time or later
+	Minor bug fixes
+	Usage of temporary variables (used in various bug fixes) in functions reduced
+	Added comments
+v1.31	Code optimised, negligable runtime reduction
+
+v1.40	Logic changes
+	- Planes on landing now has priority if they are expected/scheduled to land earlier than current time
+	Added function to print status of landing planes out of range
+v1.41	Logic fixes
+	- Function departonschedule now departs planes after current time
+	Code optimisation, negligable runtime reduction
+	Minor interaction tweaks
+	Minor bug fixes

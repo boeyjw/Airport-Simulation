@@ -1,0 +1,171 @@
+============================================================================================
+Current time is 13:03 
+Runway 1
+	Take off queue:
+	MH 1797 in queue for 1 minute(s) and is scheduled to depart on 13:03 
+	OZ 7521 in queue for 1 minute(s) and is scheduled to depart on 13:05 
+
+	Landing queue:
+	TY 4298 in queue for 0 minute(s) and is scheduled to land on 13:03 
+	0 minute(s) of fuel remaining
+Runway 2
+	Take off queue:
+	KK 5489 in queue for 1 minute(s) and is scheduled to depart on 13:12 
+
+	Landing queue:
+	SH 1887 in queue for 0 minute(s) and is scheduled to land on 13:03 
+	1 minute(s) of fuel remaining
+TY 4298 with 200 passengers made an emergency landing on runway 1 at 13:03 
+Expected arrival time was 13:03 
+============================================================================================
+Current time is 13:04 
+Runway 1
+	Take off queue:
+	MH 1797 in queue for 2 minute(s) and is scheduled to depart on 13:03 
+	OZ 7521 in queue for 2 minute(s) and is scheduled to depart on 13:05 
+
+	Landing queue:
+	<EMPTY>
+Runway 2
+	Take off queue:
+	KK 5489 in queue for 2 minute(s) and is scheduled to depart on 13:12 
+
+	Landing queue:
+	SH 1887 in queue for 1 minute(s) and is scheduled to land on 13:03 
+	0 minute(s) of fuel remaining
+SH 1887 with 200 passengers made an emergency landing on runway 2 at 13:04 
+Expected arrival time was 13:03 
+============================================================================================
+Current time is 13:05 
+Runway 1
+	Take off queue:
+	MH 1797 in queue for 3 minute(s) and is scheduled to depart on 13:03 
+	OZ 7521 in queue for 3 minute(s) and is scheduled to depart on 13:05 
+
+	Landing queue:
+	<EMPTY>
+Runway 2
+	Take off queue:
+	KK 5489 in queue for 3 minute(s) and is scheduled to depart on 13:12 
+
+	Landing queue:
+	<EMPTY>
+MH 1797 took off on runway 1 at 13:05 
+Expected departure time was 13:03 
+============================================================================================
+Current time is 13:06 
+Runway 1
+	Take off queue:
+	OZ 7521 in queue for 4 minute(s) and is scheduled to depart on 13:05 
+
+	Landing queue:
+	<EMPTY>
+Runway 2
+	Take off queue:
+	KK 5489 in queue for 4 minute(s) and is scheduled to depart on 13:12 
+
+	Landing queue:
+	<EMPTY>
+OZ 7521 took off on runway 1 at 13:06 
+Expected departure time was 13:05 
+============================================================================================
+Current time is 13:07 
+Runway 1
+	Take off queue:
+	<EMPTY>
+
+	Landing queue:
+	OZ 7878 in queue for 0 minute(s) and is scheduled to land on 13:07 
+	0 minute(s) of fuel remaining
+Runway 2
+	Take off queue:
+	KK 5489 in queue for 5 minute(s) and is scheduled to depart on 13:12 
+
+	Landing queue:
+	<EMPTY>
+OZ 7878 with 120 passengers made an emergency landing on runway 1 at 13:07 
+Expected arrival time was 13:07 
+============================================================================================
+Current time is 13:08 
+Runway 1
+	Take off queue:
+	<EMPTY>
+
+	Landing queue:
+	<EMPTY>
+Runway 2
+	Take off queue:
+	KK 5489 in queue for 6 minute(s) and is scheduled to depart on 13:12 
+
+	Landing queue:
+	<EMPTY>
+============================================================================================
+Current time is 13:09 
+Runway 1
+	Take off queue:
+	<EMPTY>
+
+	Landing queue:
+	<EMPTY>
+Runway 2
+	Take off queue:
+	KK 5489 in queue for 7 minute(s) and is scheduled to depart on 13:12 
+
+	Landing queue:
+	<EMPTY>
+============================================================================================
+Current time is 13:10 
+Runway 1
+	Take off queue:
+	<EMPTY>
+
+	Landing queue:
+	<EMPTY>
+Runway 2
+	Take off queue:
+	KK 5489 in queue for 8 minute(s) and is scheduled to depart on 13:12 
+
+	Landing queue:
+	<EMPTY>
+============================================================================================
+Current time is 13:11 
+Runway 1
+	Take off queue:
+	<EMPTY>
+
+	Landing queue:
+	YU 5482 in queue for 0 minute(s) and is scheduled to land on 13:12 
+	1 minute(s) of fuel remaining
+Runway 2
+	Take off queue:
+	KK 5489 in queue for 9 minute(s) and is scheduled to depart on 13:12 
+
+	Landing queue:
+	<EMPTY>
+YU 5482 with 120 passengers landed on runway 1 at 13:11 
+Expected landing time was 13:12 
+Status: MH 1797 with 277 passengers took off at 13:05 
+Status: SH 1887 with 200 passengers made an emergency landing at 13:04 
+Status: KK 5489 is queued to take off on runway 2
+Status: OZ 7878 with 120 passengers made an emergency landing at 13:07 
+Status: OZ 7521 with 300 passengers took off at 13:06 
+Status: YU 5482 with 120 passengers landed with 1 units of fuel remaining at 13:11 
+Status: TY 4298 with 200 passengers made an emergency landing at 13:03 
+============================================================================================
+Current time is 13:12 
+Runway 1
+	Take off queue:
+	<EMPTY>
+
+	Landing queue:
+	<EMPTY>
+Runway 2
+	Take off queue:
+	KK 5489 in queue for 10 minute(s) and is scheduled to depart on 13:12 
+
+	Landing queue:
+	<EMPTY>
+KK 5489 took off on runway 2 at 13:12 
+Expected departure time was 13:12 
+Airport is now empty!
+Thank you for using Airport Simulator (2 runways) Version 1.40!
